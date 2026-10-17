@@ -1,4 +1,4 @@
-# VaultVision – AI-Powered Privacy-Aware Data Leakage Prevention Gateway
+# VisionVault – AI-Powered Privacy-Aware Data Leakage Prevention Gateway
 
 ## About the Project
 
